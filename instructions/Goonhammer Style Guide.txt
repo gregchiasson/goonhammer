@@ -1,0 +1,72 @@
+﻿Goonhammer Style Guide
+
+
+General guidance
+
+
+Goonhammer’s primary goal is to be professional and informative. Our articles are as long as they need to be, information-heavy, and aim to be as authoritative as possible. We are directly opposed to the idea of strict word counts and the churn of light, empty content to encourage clicks and ad views. 
+
+
+That being said, the site has an engaging, casual style - readers have commented that they “feel like I’m talking it over with my friends” when reading our articles. We aim to adopt this tone throughout. That doesn’t mean the content can’t be heavy, but best efforts should be made to make the complex understandable, if not simple.
+
+
+In general, we aim to be positive and keep it light. Look for the upside of whatever you’re discussing. That doesn’t mean you have to pretend things are better than they are, but it’s always more interesting to look for what you can do than complaining about what you can’t. However, we are not anyone’s marketing arm - you aren’t required to pretend something is better than it is. For a recent example that rides this line, see Corrode’s article on the Phoenix Rising: Drukhari content.
+
+
+In a similar vein, evidence is better than no evidence. Complaining that Iron Hands are broken by being real mad about your perceived problems with the codex isn’t particularly helpful. Providing data showing that Iron Hands have won an unprecedented number of competitive games and tournaments is very helpful, and forms a basis for a real discussion. It’s not always possible to evidence things, especially with new content reviews where we may be publishing before it’s even released, but where you can manage to include it, particularly when discussing things like the “state of the meta”, evidencing your claims makes for a much more compelling read.
+
+
+Specific points
+
+
+We are ambivalent about British or American English - given our international split I’m not going to force anyone to write unnaturally. That said, there are some specific things to pick up on:
+
+
+Capitalisation is for:
+
+
+* Faction names e.g. Space Marines, Craftworld Eldar, Orks
+* Special rule and stratagem names e.g. Bolter Discipline, Veterans of the Long War
+* Unit names
+* All other proper names - this includes short forms of faction names, such as Marines and Knights
+
+
+Capitalisation is not for:
+
+
+* Weapon names except where these contain a proper name - e.g. Icarus weapons capitalise “Icarus.” If in doubt, consult your codex or rulebook
+* Random other words I swear to god why do people do this
+
+
+
+
+Additionally, keywords should use the same all-caps format as GW uses, e.g. VEHICLE or MONSTER. Generally it will be sufficient to adopt this the first time a keyword is mentioned and then not worry afterwards - e.g. you might talk about a psychic power which targets BUILDINGS and VEHICLES and then afterwards refer simply to buildings and vehicles generically.
+
+
+Rules terms should generally use the full name of the rule e.g. invulnerable save instead of “invuln.” 
+
+
+You can abbreviate with common notations e.g. 4+ save, 4++ invulnerable, 4+++ FNP but you should be clear what these are the first time they’re mentioned. For example, you might say “Captain Titus has artificer armour, an Iron Halo, and the Really Tough special rule which gives him a 4+ Feel No Pain. With this 2+/4++/4+++ profile, he’s a tough nut to crack…”
+
+
+The first time you refer to a stratagem or other special rule within a section, it can be helpful to capitalise it to make it more prominent - e.g. you might say “Space Marines have the Angels of Death special rule. Angels of Death grants them four other rules….”
+
+
+If you are constructing a bullet-pointed list where you’re using a short description or the name of a rule and then expanding on that point afterwards, it’s good practice to bold the first part to make that clear. For example, you might have a list of Imperial Fists stratagems like so:
+
+
+* Bitter Enemy – 1CP: In the Fight Phase…
+* Close-range Bolter Fire – 2CP: In the shooting phase…
+* Bolster Defences – 1CP: Once per battle…
+
+
+Lists written without bullet points should utilise the Oxford comma - i.e. if you were describing “a Space Marine, an Ork, and a Tyranid walk into a bar”, note the red/bolded comma before “and.”
+
+
+Swearing is fine in moderation - our target demo is adults who are used to at least some adult language. The key part is “in moderation.” If you’re not sure if you’re overstepping that mark, then feel free to consult an editor. What you should avoid is hostility - if it reads like a rant, it isn’t getting published.
+
+
+Spellings of Common Terms
+
+
+* Re-roll

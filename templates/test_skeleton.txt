@@ -1,0 +1,139 @@
+Intro words
+<h3><b>Army Strengths</b></h3>
+<ul>
+ 	<li>A strength</li>
+ 	<li>Another strength</li>
+ 	<li>Even more strength</li>
+</ul>
+<h3><b>Army Weaknesses</b></h3>
+<ul>
+ 	<li>A weakness</li>
+ 	<li>Another weakness</li>
+ 	<li>Even more weakness weakness</li>
+</ul>
+<h2>Special Rules</h2>
+<h3>Rule Name</h3>
+<h3>Rule Name</h3>
+<h3>Psychic Powers</h3>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong>Name - WCX</strong>:</li>
+ 	<li><strong>Name - WCX</strong>:</li>
+ 	<li><strong>Name - WCX</strong>:</li>
+ 	<li><strong>Name - WCX</strong>:</li>
+ 	<li><strong>Name - WCX</strong>:</li>
+ 	<li><strong>Name - WCX</strong>:</li>
+</ul>
+</li>
+</ul>
+<h3>[Subfaction Trait Type]</h3>
+<h4>Name</h4>
+<ul>
+ 	<li><strong>[Subfaction Trait Type] - [trait name]</strong>:</li>
+ 	<li><strong>Warlord Trait - [name] </strong>:</li>
+ 	<li><strong>Relic - [name]&nbsp;</strong>:</li>
+ 	<li><strong>Stratagem - [name] XCP </strong>:</li>
+</ul>
+Explain
+<h4>Name</h4>
+<ul>
+ 	<li><strong>[Subfaction Trait Type] - [trait name]</strong>:</li>
+ 	<li><strong>Warlord Trait - [name] </strong>:</li>
+ 	<li><strong>Relic - [name]&nbsp;</strong>:</li>
+ 	<li><strong>Stratagem - [name] XCP </strong>:</li>
+</ul>
+Explain
+<h4>Name</h4>
+<ul>
+ 	<li><strong>[Subfaction Trait Type] - [trait name]</strong>:</li>
+ 	<li><strong>Warlord Trait - [name] </strong>:</li>
+ 	<li><strong>Relic - [name]&nbsp;</strong>:</li>
+ 	<li><strong>Stratagem - [name] XCP </strong>:</li>
+</ul>
+Explain
+<h2>Units</h2>
+<h3>HQ</h3>
+<h4>Unit</h4>
+<h4>Unit</h4>
+<h4>The Rest</h4>
+<ul>
+ 	<li><strong>Unit</strong>:</li>
+ 	<li><strong>Unit</strong>:</li>
+</ul>
+<h3>Troops</h3>
+<h4>Unit</h4>
+<h4>Unit</h4>
+<h4>The Rest</h4>
+<ul>
+ 	<li><strong>Unit</strong>:</li>
+ 	<li><strong>Unit</strong>:</li>
+</ul>
+<h3>Elites</h3>
+<h4>Unit</h4>
+<h4>Unit</h4>
+<h4>The Rest</h4>
+<ul>
+ 	<li><strong>Unit</strong>:</li>
+ 	<li><strong>Unit</strong>:</li>
+</ul>
+<h3>Fast Attack</h3>
+<h4>Unit</h4>
+<h4>Unit</h4>
+<h4>The Rest</h4>
+<ul>
+ 	<li><strong>Unit</strong>:</li>
+ 	<li><strong>Unit</strong>:</li>
+</ul>
+<h3>Heavy Support</h3>
+<h4>Unit</h4>
+<h4>Unit</h4>
+<h4>The Rest</h4>
+<ul>
+ 	<li><strong>Unit</strong>:</li>
+ 	<li><strong>Unit</strong>:</li>
+</ul>
+<h3>Dedicated Transport</h3>
+<h4>Unit</h4>
+<h3>Flyer</h3>
+<h4>Unit</h4>
+<h4>Unit</h4>
+<h3>Lord of War</h3>
+<h4>Unit</h4>
+<h4>Unit</h4>
+<h2>Stratagems, Traits and Relics</h2>
+<h3>Stratagems</h3>
+<ul>
+ 	<li><strong>Name - XCP</strong>:</li>
+ 	<li><strong>Name - XCP</strong>:</li>
+ 	<li><strong>Name - XCP</strong>:</li>
+ 	<li><strong>Name - XCP</strong>:</li>
+ 	<li><strong>Name - XCP</strong>:</li>
+ 	<li><strong>Name - XCP</strong>:</li>
+ 	<li><strong>Name - XCP</strong>:</li>
+ 	<li><strong>Name - XCP</strong>:</li>
+</ul>
+<h3>Warlord Traits</h3>
+<ul>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+</ul>
+<h3>Relics</h3>
+<ul>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+ 	<li><strong>name</strong>:</li>
+</ul>
+<h2>Army List</h2>
+<strong>[expand title="Army List - Click to Expand]</strong>
+<pre>&nbsp;</pre>
+[/expand]
+<h2>Wrap Up</h2>
